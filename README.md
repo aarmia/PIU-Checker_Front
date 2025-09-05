@@ -24,7 +24,7 @@
  
 ### 📌 프로젝트 설명
 
-| ![](https://github.com/aarmia/PIU-Checker/blob/master/image/login_page.png) | ![](https://github.com/aarmia/PIU-Checker/blob/master/image/home_page.png) | ![](https://github.com/aarmia/PIU-Checker/blob/master/image/pumbility_page.png) | ![](https://github.com/aarmia/PIU-Checker/blob/master/image/recent_page.png) | ![](https://github.com/aarmia/PIU-Checker/blob/master/image/checklist_page.png) |
+| ![](https://github.com/aarmia/PIU-Checker/blob/master/image/login_page.png) | ![](https://github.com/aarmia/PIU-Checker_Front/blob/main/image/home_page.png) | ![](https://github.com/aarmia/PIU-Checker_Front/blob/main/image/pumbility_page.png) | ![](https://github.com/aarmia/PIU-Checker_Front/blob/main/image/recent_page.png) | ![](https://github.com/aarmia/PIU-Checker_Front/blob/main/image/checklist_page.png) |
 |------------------------------------------------------------------|-----------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------|----------------------------------------------------------------------|
 | **로그인 페이지**                                                    | **홈페이지**                                                        | **펌빌리티 페이지**                                                      | **최근 플레이 페이지**                                                | **체크리스트 페이지**                                                    |
 
@@ -46,7 +46,7 @@
 
 ### 📌 프로젝트 설명
 
-| ![](https://github.com/aarmia/PIU-Checker/blob/master/image/Dashboard_web.png) | ![](https://github.com/aarmia/PIU-Checker/blob/master/image/Dashboard_mobileview.jpg) |
+| ![](https://github.com/aarmia/PIU-Checker_Front/blob/main/image/Dashboard_web.png) | ![](https://github.com/aarmia/PIU-Checker_Front/blob/main/image/Dashboard_mobileview.jpg) |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
 | **Web View**                                                    | **Mobile View**                                                        |
 
